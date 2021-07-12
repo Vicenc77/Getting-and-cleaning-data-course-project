@@ -6,22 +6,19 @@
     # data_train_activity: assigned from "y_train.txt" dataset file
     # data_train_subject: assigned from "subject_train.txt" dataset file
     
-    # data_train: assigned as a result of applying the "data.frame" function
-    # on 3 previous declared variables: data_train_subject, data_train_activity, and        # data_train_x)
+    # data_train: assigned as a result of applying the "data.frame" function on 3 previous declared variables: data_train_subject, data_train_activity, and data_train_x
     
     # data_test_x: assigned from "X_test.txt" dataset file
     # data_test_activity: assigned from "y_test.txt" dataset file
     # data_test_subject: assigned from "subject_test.txt" dataset file
     
-    # data_test: assigned as a result of applying the "data.frame" function
-    # on 3 previous declared variables:data_test_subject, data_test_activity and            # data_test_x)
+    # data_test: assigned as a result of applying the "data.frame" function on 3 previous declared variables:data_test_subject, data_test_activity and data_test_x
     
-    # data_all : variable resulting from applying a "row bind" function to merge  #data_train and data_test
+    # data_all : variable resulting from applying a "row bind" function to merge data_train and data_test
     
-    # mean_std_select : variable resulting from applying the "grep" function 
-    # to find whether 'mean' or 'std'
+    # mean_std_select : variable resulting from applying the "grep" function to find whether 'mean' or 'std'
     
-    # data_sub: resulting from extracting only the measurements on the mean and standard     # deviation for each measurement
+    # data_sub: resulting from extracting only the measurements on the mean and standard deviation for each measurement
     
     # activity_labels: assigned from "activity_labels.txt" dataset file
     
