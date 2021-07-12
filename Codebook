@@ -24,4 +24,4 @@
     
     # name_new: variable resulting from appropriately labeling the data set with #descriptive variable names by means of the "gsub" function (e.g. "Gyro" for #"Gyroscope", etc.)
     
-    # data_tidy: independent txt file resulting from tidying data on the previous steps,     # with the average of each variable for each activity and each subject.
+    # data_tidy: independent txt file resulting from tidying data on the previous steps, with the average of each variable for each activity and each subject.
